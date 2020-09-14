@@ -1,0 +1,21 @@
+D:\Videos\Ejemplos codigo\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe.config
+D:\Videos\Ejemplos codigo\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe
+D:\Videos\Ejemplos codigo\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.pdb
+D:\Videos\Ejemplos codigo\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.Form1.resources
+D:\Videos\Ejemplos codigo\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.Properties.Resources.resources
+D:\Videos\Ejemplos codigo\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csproj.GenerateResource.Cache
+D:\Videos\Ejemplos codigo\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csproj.CoreCompileInputs.cache
+D:\Videos\Ejemplos codigo\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.exe
+D:\Videos\Ejemplos codigo\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.pdb
+D:\Videos\Ejemplos codigo\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csprojResolveAssemblyReference.cache
+C:\Users\DELL09\Desktop\Oracle\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe.config
+C:\Users\DELL09\Desktop\Oracle\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe
+C:\Users\DELL09\Desktop\Oracle\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.pdb
+C:\Users\DELL09\Desktop\Oracle\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csprojAssemblyReference.cache
+C:\Users\DELL09\Desktop\Oracle\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.Form1.resources
+C:\Users\DELL09\Desktop\Oracle\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.Properties.Resources.resources
+C:\Users\DELL09\Desktop\Oracle\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csproj.GenerateResource.cache
+C:\Users\DELL09\Desktop\Oracle\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csproj.CoreCompileInputs.cache
+C:\Users\DELL09\Desktop\Oracle\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.exe
+C:\Users\DELL09\Desktop\Oracle\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.pdb
+C:\Users\DELL09\Desktop\Oracle\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.Form2.resources
